@@ -1,0 +1,30 @@
+# Core Requirements
+# python>=3.9
+fastapi>=0.95.2
+uvicorn>=0.22.0
+gradio>=3.36.1
+aiohttp>=3.8.4
+
+# Web Scraping & Screenshots
+playwright>=1.32.1
+beautifulsoup4>=4.12.2
+
+# Vector Database & Embeddings
+chromadb>=0.3.25
+sentence-transformers>=2.2.2
+
+# Machine Learning & RL
+torch>=2.0.1
+numpy>=1.24.3
+scikit-learn>=1.2.2
+
+# Utilities
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+python-dateutil>=2.8.2
+tqdm>=4.65.0
+
+# Development (optional)
+pytest>=7.3.1
+black>=23.3.0
+flake8>=6.0.0
